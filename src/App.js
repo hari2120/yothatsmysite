@@ -1,5 +1,6 @@
 import './App.css';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+import "../node_modules/bootstrap/dist/js/bootstrap.js"
 import Tract from './components/Tract';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Link } from 'react-router-dom';
